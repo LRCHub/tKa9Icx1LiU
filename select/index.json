@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "やさしくしてね",
+  "base_artist": "ゴールデンボンバー",
+  "createdAt": "2025-12-15T09:43:24.580707Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "やさしくしてね",
+      "artist": "ゴールデンボンバー",
+      "has_synced": true,
+      "path": "select/01_やさしくしてね_ゴールデンボンバー.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "やさしくしてね",
+      "artist": "ゴールデンボンバー",
+      "has_synced": false,
+      "path": "select/pl_01_やさしくしてね_ゴールデンボンバー.txt"
+    }
+  ]
+}
